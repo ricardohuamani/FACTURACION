@@ -1,0 +1,3 @@
+en este ciclo desarrollaremos 
+un sistema de facturacion 
+con Netbeans (con su base de datos ) probablemente con sql 
